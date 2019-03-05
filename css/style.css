@@ -1,0 +1,215 @@
+.top-menu .menu{
+  height: 100%;
+  width: 75%;
+}
+/*.last-item li a{
+  padding: 5px 20px !important;
+}*/
+.top-menu li a{
+  padding: 22px 30px !important;
+}
+.top-menu ul li a{
+  font-family: Montserrat;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  display: inline-block;
+}
+.brd-right{
+  display: inline-block;
+  border-right: 1px solid #fff;
+}
+.top-menu .menu::before {
+    content: " ";
+    position: absolute;
+    display: block;
+    width: 75%;
+    height: 65%;
+    top: 15px;
+    left: 0;
+    z-index: -1;
+    background: #003579;
+    transform-origin: left top;
+    -ms-transform: skew(-25deg, 0deg);
+    -webkit-transform: skew(-25deg, 0deg);
+    transform: skew(-25deg, 0deg);
+}.top-menu .last-item::before {
+    content: " ";
+    position: absolute;
+    display: block;
+    width: 26%;
+    height: 65%;
+    top: 15px;
+    right: 0;
+    z-index: -1;
+    background: #999;
+    transform-origin: left top;
+    -ms-transform: skew(-25deg, 0deg);
+    -webkit-transform: skew(-25deg, 0deg);
+    transform: skew(-25deg, 0deg);
+}
+.navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,23,191, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.contact-header i {
+    display: block;
+    float: left;
+    height: 100%;
+    padding-top: 3px;
+    margin-right: 12px;
+}
+.brand-bar{
+  margin-top: 50px;
+}
+.dotted-right{
+  border-right: 1px dotted #666;
+}
+@media handheld, only screen and (max-width: 767px) {
+    .top-menu .menu::before,.top-menu .last-item::before  {
+      display: none;
+    }
+    .top-menu .menu li{
+      background: #003579;
+      border-bottom: 1px solid #fff;
+      width: 100%;
+    }
+    .top-menu li a{
+      padding: 15px !important;
+    }
+    .top-menu .menu li span{
+      display: none;
+    }
+    .top-menu ul{
+      width: 100% !important;
+    }
+    .navbar-toggler{
+      border:  2px solid #003579;
+      margin-bottom: 10px;
+    }
+    .top-menu .last-item li{
+      background: #999;
+    }
+    .logo{
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .contact-header div{
+      border-right: none;
+      width: 80%;
+      left: 10%;
+      border-bottom: 1px dotted #666;
+      margin-bottom: 5px;
+    }
+    .dotted-right{
+      border-right: none;
+    }
+
+
+}
+
+@media only screen and (max-width: 1023px) {
+    .top-menu .menu::before, .top-menu .last-item::before {
+      display: none;
+    }
+    .top-menu .menu li{
+      background: #003579;
+      border-bottom: 1px solid #fff;
+      width: 100%;
+    }
+    .top-menu li a{
+      padding: 15px !important;
+    }
+    .top-menu .menu li span{
+      display: none;
+    }
+    .top-menu ul{
+      width: 100% !important;
+    }
+    .navbar-toggler{
+      border:  2px solid #003579;
+      margin-bottom: 10px;
+    }
+    .top-menu .last-item li{
+      background: #999;
+    }
+    .logoimga img{
+      width: 80%;
+      margin-top: 20px;
+    }
+    .contact-header div{
+      font-size: 11px !important;
+      margin-top: 20px;
+    }
+    .contact-header i {
+      margin-right: 4px;
+    }
+    .brand-bar{
+      margin-top: 10px;
+    }
+}
+.footer_wrap{
+  background: #1e2127;
+  color: #fff;
+  padding: 55px 0px;
+}
+.footer_wrap h5{
+  text-transform: uppercase;
+  font-family: Montserrat;
+  margin-bottom: 20px;
+  border-bottom: solid #414347 1px;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+.footer_wrap p{
+  line-height: 22px;
+  margin-bottom: 15px;
+  color: #737d8c;
+  text-align: left;
+  font-size: 13px;
+}
+.footer_wrap a{
+  color: #737d8c;
+}
+.footmenu li a:hover{color:#fff; text-decoration: none;}
+.social-icons a{
+  background-color:#ffffff;
+  color:#525252 !important;
+  display: inline-block;
+font-size: 14px !important;
+height: 30px;
+line-height: 30px;
+margin: 0 5px 0 0;
+padding: 0;
+text-align: center;
+width: 30px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+transition: all .6s ease 0;
+}
+.social-icons a:hover{
+  background-color:#999;
+}
+#copyright{
+  background: #121418;
+  padding: 20px 0px;
+}
+.copytext{
+  color: #929292;
+}
+.copytext a{
+  color: #54565a;
+}
+.copytext a:hover{
+  text-decoration: none;
+}
+.footmenu li{
+    list-style: none;
+    line-height: 22px;
+    float: left;
+    margin: 0 10% 5px 0;
+    width: 40%;
+    padding-bottom: 5px;
+    font-size: 13px;
+}
