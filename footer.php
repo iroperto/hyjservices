@@ -44,7 +44,7 @@
         <p>Praesent mollis non lorem at interdum. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
         <p><i class="fas fa-map-marker-alt"></i> Club de Leones No. 330, Almarosa II, Sto Dgo Este</p>
         <p><i class="fas fa-phone"></i> 809.620.0233  LUN-VIE , 08.AM - 5.PM</p>
-        <p><i class="fas fa-envelope"></i> <a href="mailto:info@hyjservice.com">info@hyjservice.com</a> respuesta en 24 horas</p>
+        <p><i class="fas fa-envelope"></i> <a href="mailto:info@hyjservice.com">info@hyjservice.com</a></p>
       </div>
     </div>
   </div>

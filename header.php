@@ -37,7 +37,7 @@
             <div class="col-md-4 dotted-right">
               <i class="fas fa-phone"></i> 809-620-0233 <br /> LUN-VIE , 08.AM - 5.PM</div>
             <div class="col-md-4">
-              <i class="fas fa-comments"></i>info@hyjservice.com <br /> respuesta en 24 horas</div>
+              <i class="fas fa-comments"></i>info@hyjservice.com</div>
         </div>
         </div>
       </div>
