@@ -44,7 +44,7 @@
 
 
     </div>
-    <div class="container">
+    <div class="container menu-bar">
       <nav class="navbar navbar-expand-lg top-menu">
     <button class="navbar-toggler ml-auto hidden-sm-up float-xs-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
