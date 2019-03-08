@@ -22,19 +22,19 @@
             <li><a href="index.php"><i class="fas fa-angle-right"></i> Inicio</a>
             </li>
             <li>
-              <a href="about-us/index.php"><i class="fas fa-angle-right"></i> Empresa</a>
+              <a href="about-us/empresa.php"><i class="fas fa-angle-right"></i> Empresa</a>
             </li>
             <li>
-              <a href="buttons/index.php"><i class="fas fa-angle-right"></i> Productos</a>
+              <a href="buttons/productos.php"><i class="fas fa-angle-right"></i> Productos</a>
             </li>
             <li>
-              <a href="gallery-filters/index.php"><i class="fas fa-angle-right"></i> Servicios</a>
+              <a href="gallery-filters/servicios.php"><i class="fas fa-angle-right"></i> Servicios</a>
             </li>
             <li>
-              <a href="accordion/index.php"><i class="fas fa-angle-right"></i> Contacto</a>
+              <a href="accordion/contacto.php"><i class="fas fa-angle-right"></i> Contacto</a>
             </li>
             <li>
-              <a href="recent-posts-style4/index.php"><i class="fas fa-angle-right"></i> Solicitar Cotización</a>
+              <a href="recent-posts-style4/cotiza.php"><i class="fas fa-angle-right"></i> Solicitar Cotización</a>
             </li>
           </ul>
         </div>

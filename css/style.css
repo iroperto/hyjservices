@@ -61,6 +61,35 @@
     padding-top: 3px;
     margin-right: 12px;
 }
+#formulario .row div{
+  margin-bottom: 25px;
+}
+#contacto h1, #contacto h3{
+  font-family: Montserrat;
+  color: #282828;
+  font-weight: bold;
+}
+#contacto h1{
+  font-size: 32px;
+}
+#contacto h3{
+  font-size: 25px;
+}
+#contacto{
+  margin-top: 60px;
+}
+#contacto #direccion{
+  margin-top: 90px;
+}
+#parrafo_contacto, #direccion p{
+  width: 50%;
+  display: block;
+  font-size: 13px;
+  font-family: Montserrat;
+}
+#direccion p{
+  margin-bottom: 6px;
+}
 .brand-bar{
   margin-top: 50px;
 }
@@ -155,7 +184,7 @@
   color: #fff;
   padding: 55px 0px;
 }
-.footer_wrap h5{
+.footer_wrap h5{5
   text-transform: uppercase;
   font-family: Montserrat;
   margin-bottom: 20px;

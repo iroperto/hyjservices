@@ -26,7 +26,7 @@
         <div class="col-md-4">
           <!--LOGO START-->
               <div class="logo">
-                <a class="logoimga" title="Banking Sector" href="index.html"><img src="img/logo.png" /></a>
+                <a class="logoimga" title="Banking Sector" href="index.php"><img src="img/logo.png" /></a>
               </div>
           <!--LOGO END-->
         </div>
@@ -52,24 +52,24 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav menu">
         <li class="nav-item">
-          <a class="nav-link" href="#">Inicio</a><span class="brd-right">&nbsp;</span>
+          <a class="nav-link" href="index.php">Inicio</a><span class="brd-right">&nbsp;</span>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Empresa</a><span class="brd-right">&nbsp;</span>
+          <a class="nav-link" href="empresa.php">Empresa</a><span class="brd-right">&nbsp;</span>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Productos</a><span class="brd-right">&nbsp;</span>
+          <a class="nav-link" href="productos.php">Productos</a><span class="brd-right">&nbsp;</span>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Servicios</a><span class="brd-right">&nbsp;</span>
+          <a class="nav-link" href="servicios.php">Servicios</a><span class="brd-right">&nbsp;</span>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contacto</a>
+          <a class="nav-link" href="contacto.php">Contacto</a>
         </li>
       </ul>
       <ul class="navbar-nav last-item">
         <li class="nav-item">
-          <a class="nav-link" href="#">Solicitar Cotización</a>
+          <a class="nav-link" href="cotiza.php">Solicitar Cotización</a>
         </li>
       </ul>
     </div>
