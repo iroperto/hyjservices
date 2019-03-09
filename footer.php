@@ -4,8 +4,8 @@
     <div class="row">
       <div class="col-md-4">
         <h5>sobre nosotros</h5>
-        <p>Praesent mollis non lorem at interdum. Cum sociis natoque penatibus et magnis dis parturient montes, cetur ridiculus mus. Nunc quis pretium elit, nec congue lacus. Curabitur placerat diam risus, eget imperdiet dolor commodo pellentesque. Cras eleifend odio vel mauris interdum vulputate.</p>
-        <p>feugiat erat metus vel lacus. Nullam mollis turpis nunc. Suspendisse facilisis eleifend velit ac fringilla</p>
+        <p>H & J Service S.R.L. es una empresa de suministros de oficina establecida en 2019. Dedicada a suplir las necesidades de la industria y los proveedores de equipos de oficina.</p>
+        <p>Garantizamos el mejor servicio al cliente, por parte de  nuestro equipo de expertos y nos aseguraremos de ofrecer los mejores productos a precios inmejorables.</p>
         <div class="spacecode" style="height:20px;"></div>
         <div class="social-icons">
           <a href="#" target="_blank" title="facebook"><i class="fab fa-facebook fa-1x"></i></a>
@@ -41,7 +41,7 @@
       </div>
       <div class="col-md-4">
         <h5>contactanos</h5>
-        <p>Praesent mollis non lorem at interdum. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
+        <p> Póngase en contacto con nosotros hoy mismo para saber más sobre lo que podemos hacer por usted.</p>
         <p><i class="fas fa-map-marker-alt"></i> Club de Leones No. 330, Almarosa II, Sto Dgo Este</p>
         <p><i class="fas fa-phone"></i> 809.620.0233  LUN-VIE , 08.AM - 5.PM</p>
         <p><i class="fas fa-envelope"></i> <a href="mailto:info@hyjservice.com">info@hyjservice.com</a></p>

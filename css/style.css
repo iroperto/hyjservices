@@ -64,16 +64,50 @@
 #formulario .row div{
   margin-bottom: 25px;
 }
-#contacto h1, #contacto h3{
+h1, h3{
   font-family: Montserrat;
   color: #282828;
   font-weight: bold;
 }
-#contacto h1{
+ h1{
   font-size: 32px;
 }
-#contacto h3{
+ h3{
   font-size: 25px;
+}
+.mvv{
+  width: 100%;
+  padding: 20px 10%;
+  border: 1px solid #eeeff5;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+.mvv h3{
+  font-size: 16px;
+}
+.products img{
+  width: 75%;
+  margin-bottom: 22px;
+}
+.products h3{
+  font-size: 15px;
+}
+.products div {
+    border: 1px solid #666;
+    margin: 0 40px 20px;
+    text-align: center;
+    padding: 29px;
+}
+.mvv p, .mvv ul, .empresatxt p{
+  font-size: 13px;
+  color: #444;
+  font-family: Montserrat;
+  line-height: 20px;
+  margin-bottom: 15px;
+}
+.mvv li{
+  list-style: none;
+  margin-left: -40px;
 }
 #contacto{
   margin-top: 60px;
