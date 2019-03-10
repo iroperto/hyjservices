@@ -130,7 +130,42 @@ h1, h3{
 .dotted-right{
   border-right: 1px dotted #666;
 }
+.clientes h1{
+  text-transform: uppercase;
+}
+.clientes img{
+  max-width: 85px;
+  min-width: 85px;
+  max-height: 85px;
+  min-height: 85px;
+}
+.clientes i{
+  color: #426198;
+}
+.clientes p{
+  line-height: 27px;
+  font-weight: 300;
+  font-size: 15px;
+  text-align: center;
+  color: #444;
+  font-family: Montserrat;
+}
+.clientes .row div{
+  background: #f8f8f8;
+  padding: 70px 15px 20px;
+  margin-bottom: 80px !important;
+}
+.cliente-centro{
+  margin: 0 30px;
+}
 @media handheld, only screen and (max-width: 767px) {
+    .clientes .row div{
+      margin: 0 30px;
+    }
+    .menu-bar{
+      margin-bottom: 0px;
+    }
+
     .top-menu .menu::before,.top-menu .last-item::before  {
       display: none;
     }
@@ -177,6 +212,9 @@ h1, h3{
     .top-menu .menu::before, .top-menu .last-item::before {
       display: none;
     }
+    .menu-bar{
+      margin-bottom: 0px;
+    }
     .top-menu .menu li{
       background: #003579;
       border-bottom: 1px solid #fff;
@@ -218,10 +256,10 @@ h1, h3{
   color: #fff;
   padding: 55px 0px;
 }
-.footer_wrap h5{5
+.footer_wrap h5{
   text-transform: uppercase;
   font-family: Montserrat;
-  margin-bottom: 20px;
+  margin: 20px 0;
   border-bottom: solid #414347 1px;
   font-weight: bold;
   padding-bottom: 20px;
@@ -277,4 +315,7 @@ transition: all .6s ease 0;
     width: 40%;
     padding-bottom: 5px;
     font-size: 13px;
+}
+.clientes div h1{
+  margin: 70px 0 10px;
 }

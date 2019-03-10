@@ -2,20 +2,20 @@
 <div class="footer_wrap">
   <div id="footer" class="container">
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-4 col-sm-12 col-xs-12">
         <h5>sobre nosotros</h5>
         <p>H & J Service S.R.L. es una empresa de suministros de oficina establecida en 2019. Dedicada a suplir las necesidades de la industria y los proveedores de equipos de oficina.</p>
         <p>Garantizamos el mejor servicio al cliente, por parte de  nuestro equipo de expertos y nos aseguraremos de ofrecer los mejores productos a precios inmejorables.</p>
         <div class="spacecode" style="height:20px;"></div>
         <div class="social-icons">
-          <a href="#" target="_blank" title="facebook"><i class="fab fa-facebook fa-1x"></i></a>
-          <a href="#" target="_blank" title="twitter"><i class="fab fa-twitter fa-1x"></i></a>
-          <a href="#" target="_blank" title="google-plus"><i class="fab fa-google-plus fa-1x"></i></a>
-          <a href="#" target="_blank" title="linkedin"><i class="fab fa-linkedin fa-1x"></i></a>
-          <a href="#" target="_blank" title="instagram"><i class="fab fa-instagram fa-1x"></i></a>
+          <a href="http://www.facebook.com/hyjservices" target="_blank" title="facebook"><i class="fab fa-facebook fa-1x"></i></a>
+          <a href="http://www.twitter.com/hyjservices" target="_blank" title="twitter"><i class="fab fa-twitter fa-1x"></i></a>
+          <a href="https://wa.me/18497541713" target="_blank" title="whatsapp"><i class="fab fa-whatsapp fa-1x"></i></a>
+          <a href="https://www.linkedin.com/in/hyjservices/" target="_blank" title="linkedin"><i class="fab fa-linkedin fa-1x"></i></a>
+          <a href="https://www.instagram.com/hyjservices/" target="_blank" title="instagram"><i class="fab fa-instagram fa-1x"></i></a>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 col-sm-12 col-xs-12">
         <h5>enlaces</h5>
         <div class="menu-footer-menu-container">
           <ul id="menu-footer-menu" class="footmenu">
@@ -39,7 +39,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 col-sm-12 col-xs-12">
         <h5>contactanos</h5>
         <p> Póngase en contacto con nosotros hoy mismo para saber más sobre lo que podemos hacer por usted.</p>
         <p><i class="fas fa-map-marker-alt"></i> Club de Leones No. 330, Almarosa II, Sto Dgo Este</p>
