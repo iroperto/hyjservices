@@ -11,7 +11,7 @@
     <div class="carousel-item active">
       <img src="img/carrousel/slide01.jpg" alt="Equipos de Oficina" class="d-block w-100">
       <div class="carousel-caption">
-        <h3>Equipos de Oficina</h3>
+        <h3>Muebles de Oficina</h3>
         <p>Nuestros muebles contribuyen a una mejor organización de tus espacios.</p>
       </div>
     </div>
@@ -25,7 +25,7 @@
     <div class="carousel-item">
       <img src="img/carrousel/slide03.jpg" alt="Productos de Limpieza" class="d-block w-100">
       <div class="carousel-caption">
-        <h3>Toners y Cartuchos</h3>
+        <h3 style="color: white;">Toners y Cartuchos</h3>
         <p>Más impresiones  de alta calidad en tus documentos.</p>
       </div>
     </div>
@@ -39,7 +39,7 @@
     <div class="carousel-item">
       <img src="img/carrousel/slide05.jpg" alt="Equipos y Materiales de Limpieza" class="d-block w-100">
       <div class="carousel-caption">
-        <h3>Equipos y Materiales de Limpieza</h3>
+        <h3 style="color: white;">Equipos y Materiales de Limpieza</h3>
         <p>Equipos de alto volumen y multifuncionales.</p>
       </div>
     </div>
