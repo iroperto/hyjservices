@@ -63,5 +63,13 @@
 
 <script src="jquery/jquery-3.3.1.min.js"></script>
 <script src="bootstrap/js/bootstrap.bundle.js"></script>
+<?php
+$estado = strpos($_SERVER['REQUEST_URI'], 'cotiza.php');
+if ($estado !== false) { ?>
+  <script type="text/javascript" src="js/formularios.js"></script>
+<?php } ?>
+<script type="text/javascript" src="js/site.js">
+
+</script>
 </body>
 </html>

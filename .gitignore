@@ -1,2 +1,5 @@
 *.DS_Store
 *.psd
+*.scss
+*.css.map
+.sass-cache

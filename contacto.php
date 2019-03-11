@@ -17,7 +17,7 @@
           <h1>Contacto</h1>
           <p  id="parrafo_contacto">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin iterature from 45 BC, making it over 2000 years old. Richard McClintock.</p>
           <div id="formulario">
-            <form action="">
+            <form id="formularioContacto">
               <div class="row">
                 <div class="col-md-6">
                   <input type="email" class="form-control" placeholder="Email" name="email" id="email">
@@ -35,10 +35,11 @@
                   <textarea class="form-control" rows="9" placeholder="Mensaje" name="mensaje" id="mensaje"></textarea>
                 </div>
                 <div class="col-md-12">
-                  <button type="button" class="btn btn-primary">Enviar</button>
+                  <button class="btn btn-primary">Enviar</button>
                 </div>
               </div>
             </form>
+            <div id="respuesta"></div>
           </div>
         </div>
         <div class="col-md-4" id="direccion">

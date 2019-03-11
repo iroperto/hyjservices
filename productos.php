@@ -1,6 +1,6 @@
 <?php require_once 'header.php'; ?>
 <div>
-  <img src="img/productos.jpg" alt="equipo" class="img-responsive" style="min-width: 100%;">
+  <img src="img/productos.jpg" alt="equipo" class="d-block w-100" style="min-width: 100%;">
 </div>
 <div class="container" style="margin-top: 32px;">
   <h1>Productos</h1>

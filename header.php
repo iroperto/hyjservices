@@ -9,14 +9,23 @@
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="fontawesome/css/all.css">
     <link rel="stylesheet" href="css/style.css">
+
+
     <!-- Roboto Font-->
     <link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto" rel="stylesheet">
+
+    <?php
+    $estado = strpos($_SERVER['REQUEST_URI'], 'cotiza.php');
+    if ($estado !== false) { ?>
+      <link rel="stylesheet" href="css/formularios.css">
+    <?php } ?>
 
     <title>:: H&J SERVICES, S.R.L. ::</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 </head>
 
 <body>
+
 <!--HEADER-->
 <div class="header_wrap layer_wrapper">
 
