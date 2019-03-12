@@ -8,8 +8,6 @@ require '../phpmailer/src/SMTP.php';
 
 function limpiarCadena($str)
 {
-  global $connection;
-  $str = mysqli_real_escape_string($connection, trim($str));
   return htmlspecialchars($str);
 }
 
