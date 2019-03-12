@@ -54,7 +54,7 @@ $(function() {
   $('form').submit(function(event) {
     event.preventDefault();
     var formData = new FormData($('#formulario')[0]);
-    
+
     $.ajax({
   		url: ajax_file,
   	    type: "POST",
@@ -65,7 +65,7 @@ $(function() {
   	    success: function(datos)
   	    {
           $( "#respuesta" ).load( thanks_file );
-          mostrarform(false);
+          //mostrarform(false);
   	    }
 
   	});
