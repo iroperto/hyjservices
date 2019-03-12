@@ -34,7 +34,8 @@ $body_msg = "<div style='border: 4px solid navy; margin: 20px auto; padding: 30p
   </div>
 </div>";
 
-try {
+echo "email: ".$email." nombre: ".$nombre." asunto: ".$asunto." telefono: ".$telefono." mensaje: ".$mensaje;
+/*try {
     //Server settings
     $mail->SMTPDebug = 2;                                 // Enable verbose debug output
     $mail->isSMTP();                                      // Set mailer to use SMTP
@@ -67,6 +68,5 @@ try {
     echo 'Message has been sent';
 } catch (Exception $e) {
     echo 'Message could not be sent. Mailer Error: ', $mail->ErrorInfo;
-}
-    echo "<br><br>".$email;
+}*/
 ?>
