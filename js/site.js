@@ -45,8 +45,10 @@ $(function() {
   	    processData: false,
 
   	    success: function(datos)
-  	    {     $( "#respuesta" ).load( thanks_file );
-  	          mostrarform(false);
+  	    {
+          console.log(datos);   
+          //$( "#respuesta" ).load( thanks_file );
+  	      //mostrarform(false);
   	    }
 
   	});
