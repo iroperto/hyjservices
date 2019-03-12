@@ -59,7 +59,7 @@
     <p class="text-center">Nuestros clientes son la parte mas importante y mejor cuidada de nuestra actividad comercial, ellos mismos lo confirman</p>
   </div>
 </div>
-<div class="clientes">
+<div class="clientes" style="display:none;">
   <div class="row  justify-content-center">
     <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 text-center">
       <p><i class="fas fa-quote-left fa-lg"></i></p>

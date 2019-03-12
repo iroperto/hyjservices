@@ -6,40 +6,24 @@
   <h1>Servicios</h1>
   <div class="row products justify-content-center">
     <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-      <img src="img/productos/servicios.jpg" alt="Servicio 1" class="rounded-circle mx-auto d-block shadow p-2 img-fluid img-thumbnails">
-      <h3>Servicio 1</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare turpis a vulputate facilisis. Aenean bibendum gravida elit, eget porttitor sapien. Nulla quis nunc sit amet ante tincidunt commodo vitae id lectus. </p>
-      <button type="button" class="btn btn-warning">Detalles</button>
+      <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <img src="img/productos/servicio1.jpg" alt="Servicio 2" class="rounded-circle mx-auto d-block shadow p-2 img-fluid img-thumbnails">
+        <h3>Entrega a Domicilio</h3>
+        <p>Ofrecemos entregas puerta a puerta a las principales ciudades del país en un plazo de 24 a 72 horas.</p>
+      </div>
+      <img src="img/productos/servicio2.jpg" alt="Servicio 1" class="rounded-circle mx-auto d-block shadow p-2 img-fluid img-thumbnails">
+      <h3>Reparación de Mobiliario de Oficina</h3>
+      <p>Reparación, Servicio y Mantenimiento de todo tipo de Muebles para Oficinas en general.</p>
     </div>
     <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-      <img src="img/productos/servicios.jpg" alt="Servicio 2" class="rounded-circle mx-auto d-block shadow p-2 img-fluid img-thumbnails">
-      <h3>Servicio 2</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare turpis a vulputate facilisis. Aenean bibendum gravida elit, eget porttitor sapien. Nulla quis nunc sit amet ante tincidunt commodo vitae id lectus. </p>
-      <button type="button" class="btn btn-warning">Detalles</button>
+      <img src="img/productos/servicio3.jpg" alt="Servicio 3" class="rounded-circle mx-auto d-block shadow p-2 img-fluid img-thumbnails">
+      <h3>Reparación de Impresoras</h3>
+      <p>Reparamos todo tipo de Impresoras y fotocopiadoras, con un personal tecnico altamente calificado. </p>
     </div>
     <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-      <img src="img/productos/servicios.jpg" alt="Servicio 3" class="rounded-circle mx-auto d-block shadow p-2 img-fluid img-thumbnails">
-      <h3>Servicio 3</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare turpis a vulputate facilisis. Aenean bibendum gravida elit, eget porttitor sapien. Nulla quis nunc sit amet ante tincidunt commodo vitae id lectus. </p>
-      <button type="button" class="btn btn-warning">Detalles</button>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-      <img src="img/productos/servicios.jpg" alt="Servicio 4" class="rounded-circle mx-auto d-block shadow p-2 img-fluid img-thumbnails">
-      <h3>Servicio 4</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare turpis a vulputate facilisis. Aenean bibendum gravida elit, eget porttitor sapien. Nulla quis nunc sit amet ante tincidunt commodo vitae id lectus. </p>
-      <button type="button" class="btn btn-warning">Detalles</button>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-      <img src="img/productos/servicios.jpg" alt="Servicio 5" class="rounded-circle mx-auto d-block shadow p-2 img-fluid img-thumbnails">
-      <h3>Servicio 5</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare turpis a vulputate facilisis. Aenean bibendum gravida elit, eget porttitor sapien. Nulla quis nunc sit amet ante tincidunt commodo vitae id lectus. </p>
-      <button type="button" class="btn btn-warning">Detalles</button>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-      <img src="img/productos/servicios.jpg" alt="Servicio 6" class="rounded-circle mx-auto d-block shadow p-2 img-fluid img-thumbnails">
-      <h3>Servicio 6</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare turpis a vulputate facilisis. Aenean bibendum gravida elit, eget porttitor sapien. Nulla quis nunc sit amet ante tincidunt commodo vitae id lectus. </p>
-      <button type="button" class="btn btn-warning">Detalles</button>
+      <img src="img/productos/servicio4.jpg" alt="Servicio 4" class="rounded-circle mx-auto d-block shadow p-2 img-fluid img-thumbnails">
+      <h3>Colocación de Impresoras</h3>
+      <p>Colocamos Impresoras en tu oficina sin costo de compra o mantenimiento, con el compromiso de comprar los suministros del impresor.</p>
     </div>
   </div>
 </div>
