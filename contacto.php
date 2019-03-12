@@ -15,7 +15,7 @@
       <div class="row">
         <div class="col-md-8">
           <h1>Contacto</h1>
-          <p  id="parrafo_contacto">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin iterature from 45 BC, making it over 2000 years old. Richard McClintock.</p>
+          <p  id="parrafo_contacto">Para asistirle con mayor rapidez, por favor revise las secciones disponibles a continuación para aclarar cualquier duda que tenga.</p>
           <div id="formularioContacto">
             <form id="formulario">
               <div class="row">
