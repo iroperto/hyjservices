@@ -15,8 +15,7 @@ function limpiarCadena($str)
 
 $mail = new PHPMailer(true);                              // Passing `true` enables exceptions
 
-print_r($_POST);
-/*$email = isset($_POST['email'])? limpiarCadena($_POST['email']):"";
+$email = isset($_POST['email'])? limpiarCadena($_POST['email']):"";
 $nombre = isset($_POST['nombre'])? limpiarCadena($_POST['nombre']):"";
 $asunto = isset($_POST['asunto'])? limpiarCadena($_POST['asunto']):"";
 $telefono = isset($_POST['telefono'])? limpiarCadena($_POST['telefono']):"";
@@ -33,9 +32,9 @@ $body_msg = "<div style='border: 4px solid navy; margin: 20px auto; padding: 30p
   <p style='font-family: sans-serif;'><b>Mensaje:</b></p>
   <div style='font-family: sans-serif; font-size: 14px;'>".$mensaje."
   </div>
-</div>";*/
+</div>";
 
-//echo "email: ".$email." nombre: ".$nombre." asunto: ".$asunto." telefono: ".$telefono." mensaje: ".$mensaje;
+echo "email: ".$email." nombre: ".$nombre." asunto: ".$asunto." telefono: ".$telefono." mensaje: ".$mensaje;
 /*try {
     //Server settings
     $mail->SMTPDebug = 2;                                 // Enable verbose debug output
