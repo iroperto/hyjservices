@@ -66,6 +66,7 @@ $(function() {
   	    {
           $( "#respuesta" ).load( thanks_file );
           //mostrarform(false);
+          console.log(data);
   	    }
 
   	});
