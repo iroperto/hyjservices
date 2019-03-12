@@ -9,7 +9,7 @@
         <strong>Cotización</strong>
     </h5>
      <div class="card-body px-lg-5 pt-0">
-    <form class="text-center" id="cotizador" style="color: #757575;" enctype="multipart/form-data">
+    <form class="text-center" id="formulario" style="color: #757575;" enctype="multipart/form-data">
       <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="input-group">
@@ -44,9 +44,10 @@
         <textarea name="cotizacion" id="cotizacion" class="form-control"></textarea>
         <label for="cotizacion">Articulos a cotizar</label>
       </div>
-      <button id="enviar">Enviar</button>
+      <button id="btnEnviar">Enviar</button>
+      <input type="hidden" id="tipoform" value="cotizador">
     </form>
-    <div id="respuesta"></div>
+    <div id="respuesta">texto de respuesta</div>
   </div>
 </div>
 </div>
