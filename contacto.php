@@ -35,7 +35,7 @@
                   <textarea class="form-control" rows="9" placeholder="Mensaje" name="mensaje" id="mensaje"></textarea>
                 </div>
                 <div class="col-md-12">
-                  <button class="btn btn-primary" id="btnEnviar" onclick="mostrarform(false)">Enviar</button>
+                  <button class="btn btn-primary" id="btnEnviar">Enviar</button>
                   <input type="hidden" id="tipoform" value="contacto">
                 </div>
               </div>
