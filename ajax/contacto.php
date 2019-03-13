@@ -22,6 +22,7 @@ $mensaje = isset($_POST['mensaje'])? limpiarCadena($_POST['mensaje']):"";
 
 $mensaje = str_replace("\n\n", "</p>\n<p>", $mensaje);
 $mensaje = "<p>" . $mensaje . "</p>";
+$mensaje = nl2br($mensaje);
 
 $body_msg = "<div style='border: 4px solid navy; margin: 20px auto; padding: 30px;'>
   <img src='http://hyjservices.com.do/img/logo.png' alt='logo' style='width: 200px; height: auto;'>
