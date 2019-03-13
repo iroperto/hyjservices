@@ -46,14 +46,14 @@ try {
     $mail->isSMTP();                                      // Set mailer to use SMTP
     $mail->Host = 'smtp.gmail.com';                       // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = 'ventas@hyjservice.com';                 // SMTP username
-    $mail->Password = 'admin123';                           // SMTP password
+    $mail->Username = 'formularioshyjservices@gmail.com';                 // SMTP username
+    $mail->Password = 'Roperto@1976/';                           // SMTP password
     $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 587;                                    // TCP port to connect to
 
     //Recipients
     $mail->setFrom($email, $nombre);
-    $mail->addAddress('ventas@hyjservice.com', 'Formulario de Contacto');     // Add a recipient
+    $mail->addAddress('info@hyjservice.com', 'Formulario de Contacto');     // Add a recipient
     //$mail->addAddress('ellen@example.com');               // Name is optional
     $mail->addReplyTo($email, $nombre);
     //$mail->addCC('cc@example.com');
