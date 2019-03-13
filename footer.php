@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-md-4 col-sm-12 col-xs-12">
         <h5>sobre nosotros</h5>
-        <p>H & J Service S.R.L. es una empresa de suministros de oficina establecida en 2019. Dedicada a suplir las necesidades de la industria y los proveedores de equipos de oficina.</p>
+        <p>H & J Service S.R.L. es una empresa de suministros de oficina establecida en 2013. Dedicada a suplir las necesidades de la industria.</p>
         <p>Garantizamos el mejor servicio al cliente, por parte de  nuestro equipo de expertos y nos aseguraremos de ofrecer los mejores productos a precios inmejorables.</p>
         <div class="spacecode" style="height:20px;"></div>
         <div class="social-icons">
@@ -22,19 +22,19 @@
             <li><a href="index.php"><i class="fas fa-angle-right"></i> Inicio</a>
             </li>
             <li>
-              <a href="about-us/empresa.php"><i class="fas fa-angle-right"></i> Empresa</a>
+              <a href="empresa.php"><i class="fas fa-angle-right"></i> Empresa</a>
             </li>
             <li>
-              <a href="buttons/productos.php"><i class="fas fa-angle-right"></i> Productos</a>
+              <a href="productos.php"><i class="fas fa-angle-right"></i> Productos</a>
             </li>
             <li>
-              <a href="gallery-filters/servicios.php"><i class="fas fa-angle-right"></i> Servicios</a>
+              <a href="servicios.php"><i class="fas fa-angle-right"></i> Servicios</a>
             </li>
             <li>
-              <a href="accordion/contacto.php"><i class="fas fa-angle-right"></i> Contacto</a>
+              <a href="contacto.php"><i class="fas fa-angle-right"></i> Contacto</a>
             </li>
             <li>
-              <a href="recent-posts-style4/cotiza.php"><i class="fas fa-angle-right"></i> Solicitar Cotización</a>
+              <a href="cotiza.php"><i class="fas fa-angle-right"></i> Solicitar Cotización</a>
             </li>
           </ul>
         </div>
@@ -53,7 +53,7 @@
     <div class="container">
       <div class="copytext">
         <div class="float-left">&copy; <?php echo date("Y"); ?> H y J Services,  S.R.L. Todos los derechos reservados</div>
-        <div class="float-right"> Powered by <a href="http://www.ivanroperto.com/" target="_blank" rel="nofollow">Ivan Roperto</a></div>
+        <div class="float-right"> Powered by <a href="http://www.ivanroperto.com/" target="_blank" rel="nofollow">Ivan Roperto</a></div>recent-posts-style4/
         <div class="float-none">&nbsp;</div>
         </div>
     </div>

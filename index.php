@@ -18,7 +18,7 @@
     <div class="carousel-item">
       <img src="img/carrousel/slide02.jpg" alt="Material Gastable" class="d-block w-100">
       <div class="carousel-caption">
-        <h3>Material Gastable</h3>
+        <h3 style="color: white;">Material Gastable</h3>
         <p>Materiales de calidad y alta duración.</p>
       </div>
     </div>
@@ -53,7 +53,7 @@
     </a>
   </div>
 </div>
-<div class="container-fluid clientes">
+<div class="container-fluid clientes" style="display: none;">
   <div>
     <h1 class="text-center">clientes satisfechos</h1>
     <p class="text-center">Nuestros clientes son la parte mas importante y mejor cuidada de nuestra actividad comercial, ellos mismos lo confirman</p>
