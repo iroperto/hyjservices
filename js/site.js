@@ -64,9 +64,9 @@ $(function() {
 
   	    success: function(datos)
   	    {
-          var start = Date.now();
+
           $( "#respuesta" ).load( thanks_file );
-          //mostrarform(false);
+          mostrarform(false);
           console.log(datos);
           var end = Date.now();
           console.log(end-start);
