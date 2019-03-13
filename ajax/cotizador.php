@@ -34,7 +34,7 @@ $body_msg = "<div style='border: 4px solid navy; margin: 20px auto; padding: 30p
   <p style='font-family: sans-serif;'><b>Direcci&oacute;n:</b></p>
   <div style='font-family: sans-serif; font-size: 14px;'>".$direccion."</div>
 <p style='font-family: sans-serif;'><b>Desea Cotizar:</b></p>
-<div style='font-family:sans-serifl font-size: 14px;'>".$cotizacion."
+<div style='font-family:sans-serif; font-size: 14px;'>".$cotizacion."
   </div>
 </div>";
 
