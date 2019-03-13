@@ -67,9 +67,6 @@ $(function() {
 
           $( "#respuesta" ).load( thanks_file );
           mostrarform(false);
-          console.log(datos);
-          var end = Date.now();
-          console.log(end-start);
   	    }
 
   	});
